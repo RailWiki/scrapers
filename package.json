@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.737.0",
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "got": "^11.5.2",
+    "https": "^1.0.0",
+    "luxon": "^1.25.0",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
